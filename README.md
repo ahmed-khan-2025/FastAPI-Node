@@ -1,7 +1,7 @@
 # FastAPI-Node
 ## 🎬 Movie App
-A simple full-stack Movie Management application that allows users to **create**, **read**,\ **update**, and **delete (CRUD)** movie records. It uses:\
-
+A simple full-stack Movie Management application that allows users to **create**, **read**,\
+**update**, and **delete (CRUD)** movie records. It uses:\
 - **FastAPI** as the backend API server\
 - **SQLite** for the database\
 - **HTML/CSS/JavaScript** for the frontend
